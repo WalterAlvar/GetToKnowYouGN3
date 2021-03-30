@@ -4,7 +4,7 @@ Here we can read a little bit more information of the **Team Members**
 
 ## My name is **Walter Alvarado**
 
-Picture
+<img src="https://i.ibb.co/mybcrSh/Bio1.jpg" alt="Walter's photo" width="200"/>
 
 ### I came from:
 
