@@ -48,7 +48,7 @@ Actively participate in an interesting and useful project at the intersection of
 
 ## My name is **Serkan Demir**
 
-<img src="<img src="https://avatars.githubusercontent.com/u/74192237?s=60&v=4" alt="Serkan's photo" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/74192237?s=60&v=4" alt="Serkan's photo" width="200"/>
 
 ### I came from:
 
