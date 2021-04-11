@@ -52,7 +52,7 @@ Actively participate in an interesting and useful project at the intersection of
 
 ### I came from:
 
-Turkey, it is in Asia and Europe at the same time. 
+Turkey, it is between Asia and Europe at the same time. 
 
 
 ### My Favorite foods are:
