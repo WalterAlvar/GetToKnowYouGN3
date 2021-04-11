@@ -48,6 +48,8 @@ Actively participate in an interesting and useful project at the intersection of
 
 ## My name is **Serkan Demir**
 
+<img src="<img src="https://i.ibb.co/mybcrSh/Bio1.jpg" alt="Walter's photo" width="200"/>" alt="Serkan's photo" width="200"/>
+
 ### I came from:
 
 Turkey, it is in Asia and Europe at the same time. 
