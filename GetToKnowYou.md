@@ -45,3 +45,25 @@ Read, help other people and enjoy art
 ### Where I want to be five years from now:
 
 Actively participate in an interesting and useful project at the intersection of IT and education
+
+## My name is **Serkan Demir**
+
+### I came from:
+
+Turkey, it is in Asia and Europe at the same time. 
+
+
+### My Favorite foods are:
+
+- Pasta
+- Kebap
+- Baklava(It is a turkish dessert)
+
+### When not coding I like to:
+
+listening music, walking and watching science finction movies.
+
+### Where i want to be five years from now:
+
+I want to be in a good position in an IT company which people work happily in. I want to be useful  for humanity
+
