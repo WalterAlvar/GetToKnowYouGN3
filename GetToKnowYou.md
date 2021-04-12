@@ -52,7 +52,7 @@ Actively participate in an interesting and useful project at the intersection of
 
 ### I came from:
 
-Turkey, it is between Asia and Europe at the same time. 
+Turkey, it is between Asia and Europe. 
 
 
 ### My Favorite foods are:
@@ -63,7 +63,7 @@ Turkey, it is between Asia and Europe at the same time.
 
 ### When not coding I like to:
 
-listening music, walking and watching science finction movies.
+listen music, walk and watchscience finction movies.
 
 ### Where i want to be five years from now:
 
