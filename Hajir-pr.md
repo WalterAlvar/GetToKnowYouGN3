@@ -1,8 +1,9 @@
-##  My name is Hajir
+#  My name is Hajir
 
-## I'm from Iraq
+I'm from Iraq
 
 
-## Iam 26 years old 
+Iam 26 years old 
 
-https://avatars.githubusercontent.com/u/78594339?v=4
+
+![Hajir Photo](https://avatars.githubusercontent.com/u/78594339?v=4)
